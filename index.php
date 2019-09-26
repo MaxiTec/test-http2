@@ -1,4 +1,13 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="robots" content="noindex">
+  <title>Document</title>
+</head>
+<body>
 <h1>TEST HTTP2 :)</h1>
 <p>
 <?php echo('lorem ipsum :)');?></p>
@@ -72,3 +81,5 @@
             </a>
         </div>
     </div> <a data-eventcategory="Inicio" data-eventaction="Hoteles" data-eventlabel="VER MAS HOTELES" data-eventtrigger="clicGeneral" href="https://oasishoteles.com/es/hoteles/cancun" class="btn btn-gray-soft grid-hoteles__ver-mas" title="Hoteles en Cancun">ver más hoteles</a> </div>
+</body>
+</html>
